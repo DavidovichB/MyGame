@@ -1,0 +1,11 @@
+ ________________________________________________________________
+|				short guide 			   	
+|
+|		we got 2 players here				    
+|
+|		p1 always starts first				    
+|
+|		this game is something like a turn-based strategy 		
+|   
+|   you can play as two same heroes				   	    
+|________________________________________________________________
